@@ -10,6 +10,9 @@ This project implements a simulation of the card game Baccarat, specifically the
 Implementation Details
 The project consists of several classes that encapsulate the functionality of the Baccarat game:
 
+![image](https://github.com/Eriksen1212/Baccarat-OOP/assets/112687286/7201e771-6bce-4ffa-afa5-3b54e521c456)
+
+
 BaccaratCard:
 
 Represents a single playing card with a rank and suit.
