@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 # Baccarat-OOP
 =======
-# COMP1721 Coursework 2
 
 * [Using Gradle](#using-gradle)
 * [Tests & Style Checking](#tests-and-style-checking)
