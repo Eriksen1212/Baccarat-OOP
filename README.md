@@ -2,6 +2,34 @@
 # Baccarat-OOP
 =======
 
+Baccarat OOP Project
+Overview
+This project implements a simulation of the card game Baccarat, specifically the 'punto banco' variant. The goal is to create a functional and object-oriented program using Java, adhering to specific class structures and interfaces provided. The project includes creating classes for Baccarat cards, hands, and the shoe from which cards are dealt.
+
+
+Implementation Details
+The project consists of several classes that encapsulate the functionality of the Baccarat game:
+
+BaccaratCard:
+
+Represents a single playing card with a rank and suit.
+Provides methods to get the rank and suit, compare cards, and return the card's value in Baccarat.
+
+BaccaratHand:
+
+Stores and manages a collection of BaccaratCard objects.
+Provides methods to add cards, calculate the hand's value, and determine if the hand is a natural.
+
+Shoe:
+
+Represents the shoe containing multiple decks of cards.
+Provides methods to shuffle the cards and deal them.
+
+Main Program (Baccarat.java):
+
+Creates a shoe with six decks, shuffles it, deals cards to the player and banker, and displays the results.
+Includes both interactive and non-interactive modes for playing multiple rounds.
+
 * [Using Gradle](#using-gradle)
 * [Tests & Style Checking](#tests-and-style-checking)
 * [Baccarat Application](#baccarat-application)
