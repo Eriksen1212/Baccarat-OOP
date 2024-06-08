@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="C:\Users\pcy20\바탕 화면\4-1 Leeds Univ\Object Oriented Programming\Coursework 2\cwk2\src\main\java\Baccarat.java">
+<error line="19" severity="warning" message="Line is longer than 100 characters (found 109)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="C:\Users\pcy20\바탕 화면\4-1 Leeds Univ\Object Oriented Programming\Coursework 2\cwk2\src\main\java\BaccaratCard.java">
+<error line="31" column="28" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+</file>
+<file name="C:\Users\pcy20\바탕 화면\4-1 Leeds Univ\Object Oriented Programming\Coursework 2\cwk2\src\main\java\BaccaratHand.java">
+<error line="11" column="6" severity="warning" message="Comment has incorrect indentation level 5, expected is 4, indentation should be the same level as line 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.CommentsIndentationCheck"/>
+<error line="19" column="34" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+<error line="32" column="39" severity="warning" message="Don&apos;t use trailing comments." source="com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck"/>
+</file>
+<file name="C:\Users\pcy20\바탕 화면\4-1 Leeds Univ\Object Oriented Programming\Coursework 2\cwk2\src\main\java\Card.java">
+</file>
+<file name="C:\Users\pcy20\바탕 화면\4-1 Leeds Univ\Object Oriented Programming\Coursework 2\cwk2\src\main\java\CardCollection.java">
+</file>
+<file name="C:\Users\pcy20\바탕 화면\4-1 Leeds Univ\Object Oriented Programming\Coursework 2\cwk2\src\main\java\CardException.java">
+</file>
+<file name="C:\Users\pcy20\바탕 화면\4-1 Leeds Univ\Object Oriented Programming\Coursework 2\cwk2\src\main\java\Shoe.java">
+</file>
+</checkstyle>
